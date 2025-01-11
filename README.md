@@ -25,7 +25,7 @@ Charging: Yes
 Time Left: Charging
 Battery Health: Healthy
 ==============================
-Powered by Python - Battery Monitor
+Powered by Battery Monitor (github.com/basemax)
 ```
 
 ### Installation
