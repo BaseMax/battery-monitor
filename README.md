@@ -78,6 +78,6 @@ battery-monitor/
 
 ### License
 
-MIT License.
+MIT [License](license).
 
 Copyright 2025, Max Base
